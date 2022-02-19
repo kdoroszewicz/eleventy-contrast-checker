@@ -5,3 +5,5 @@ yarn.lock
 
 # Eleventy
 _site/
+netlify/functions/onRequest/**
+!netlify/functions/onRequest/index.js
