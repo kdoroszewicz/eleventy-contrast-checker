@@ -7,3 +7,6 @@ yarn.lock
 _site/
 netlify/functions/onRequest/**
 !netlify/functions/onRequest/index.js
+
+# Local Netlify folder
+.netlify
